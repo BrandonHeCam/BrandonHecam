@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Brandon Isahir Hernández</h1>
+<h3 align="center">A passionate Web Developer & Engineering Student.</h3>
 
-<!--
-**BrandonHeCam/BrandonHecam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const bran = {
+  pronouns: "he" | "him",
+  code: [HTML, CSS, JavaScript, PHP, Java],
+  cssFrameworks: [Tailwind CSS, Bootstrap],
+  frameworks: [Laravel, Astro, React]
+};
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_**Made with 💛 by [@Brandon Isahir Hernández](https://github.com/BrandonHernz)🐤**_
